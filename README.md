@@ -16,4 +16,6 @@ One of the most interesting features of the utility is the mapping feature. The 
 
 ![pic1](https://github.com/codycook96/TPUtility/blob/master/AdjMatrix.png)
 
+Here we can see each row (starting at 0) indicates a node, and the columns in that row that are 1 indicate links to child nodes.
+
 ![pic2](https://github.com/codycook96/TPUtility/blob/master/graph.png)
