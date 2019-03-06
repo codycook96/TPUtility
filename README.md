@@ -11,7 +11,7 @@ The program is able to compare two .ls files and report back the line by line si
 
 ## Mapping
 
-One of the most interesting features of the utility is the mapping feature. The program recursively goes through each .ls file and finds calls to other procedures. An adjacency matrix is made that keeps track of every procedure that has been called and all the procedures that are called from within it. This adjaceny matrix can then be taken used to create a visual map of the program (I used [this](http://graphonline.ru/en/)). 
+One of the most interesting features of the utility is the mapping feature. The program recursively goes through each .ls file and finds calls to other procedures. An adjacency matrix is made that keeps track of every procedure that has been called and all the procedures that are called from within it. This adjaceny matrix can then be taken used to create a visual map of the program (I used [this](http://graphonline.ru/en/create_graph_by_matrix)). 
 
 
 ![pic1]()
